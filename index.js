@@ -2,42 +2,42 @@ const projects = [
     {
       name: "Abel Tracker",
       codeUrl: "https://github.com/marahsang/abel-tracker",
-      livePreview: "#",
+      livePreview: " https://marahsang.github.io/abel-tracker/",
     },
     {
       name: "Black Jack",
       codeUrl: "https://github.com/marahsang/black-jack",
-      livePreview: "#",
+      livePreview: "https://marahsang.github.io/black-jack/",
     },
     {
       name: "Odin Grid Project",
       codeUrl: "https://github.com/marahsang/Odin-Grid-Project",
-      livePreview: "#",
+      livePreview: "https://marahsang.github.io/Odin-Grid-Project/",
     },
     {
       name: "Landing Page",
       codeUrl: "https://github.com/marahsang/odin-lpage",
-      livePreview: "#",
+      livePreview: "https://marahsang.github.io/odin-lpage/",
     },
     {
       name: "Calculator",
       codeUrl: "https://github.com/marahsang/Calculator_Odin_Project",
-      livePreview: "#",
+      livePreview: "https://marahsang.github.io/Calculator_Odin_Project/",
     },
     {
     name: "Rock Paper Scissors",
     codeUrl: "https://github.com/marahsang/rock_paper_scissors",
-    livePreview: "#",
+    livePreview: "https://marahsang.github.io/rock_paper_scissors/",
     },
     {
         name: "Etch a Sketch",
     codeUrl: "https://github.com/marahsang/Etch-a-Sketch",
-    livePreview: "#",
+    livePreview: "https://marahsang.github.io/Etch-a-Sketch/",
     },
     {
         name: "Odin Recipes",
     codeUrl: "https://github.com/marahsang/odin-recipes",
-    livePreview: "#",
+    livePreview: "https://marahsang.github.io/odin-recipes/",
     }
   ];
   
