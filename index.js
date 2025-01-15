@@ -38,7 +38,46 @@ const projects = [
         name: "Odin Recipes",
     codeUrl: "https://github.com/marahsang/odin-recipes",
     livePreview: "https://marahsang.github.io/odin-recipes/",
+    },
+    {
+    name: "Tribute Page",
+    codeUrl: "https://github.com/marahsang/tribute-page",
+    livePreview: "https://marahsang.github.io/tribute-page/",
+    },
+    {
+      name: "Survey form",
+      codeUrl: "https://github.com/marahsang/forms",
+      livePreview: "https://marahsang.github.io/forms/",
+    },
+
+
+
+    {
+      name: "Technical Documentation",
+      codeUrl: "https://github.com/marahsang/tech-doc",
+      livePreview: "https://marahsang.github.io/tech-doc/",
+    },
+    {
+      name: "Product Landing Page",
+      codeUrl: "https://github.com/marahsang/product-landing-page",
+      livePreview: "https://marahsang.github.io/product-landing-page/",
+    },
+    {
+      name: "Skyline",
+      codeUrl: "https://github.com/marahsang/skyline",
+      livePreview: "https://marahsang.github.io/skyline/",
+    },
+    {
+      name: "Penguin",
+      codeUrl: "https://github.com/marahsang/penguin",
+      livePreview: "https://marahsang.github.io/penguin/",
+    },
+    {
+      name: "Survey form",
+      codeUrl: "https://github.com/marahsang/forms",
+      livePreview: "https://marahsang.github.io/forms/",
     }
+
   ];
   
   // Get the project list container
