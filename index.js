@@ -71,9 +71,9 @@ const projects = [
       livePreview: "https://marahsang.github.io/penguin/",
     },
     {
-      name: "Survey Form",
-      codeUrl: "https://github.com/marahsang/forms",
-      livePreview: "https://marahsang.github.io/forms/",
+      name: "Personal Portfolio Webpage",
+      codeUrl: "https://github.com/marahsang/personal-portfolio-webpage",
+      livePreview: "https://marahsang.github.io/personal-portfolio-webpage/",
     }
 
   ];
