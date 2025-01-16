@@ -44,10 +44,11 @@ const projects = [
     codeUrl: "https://github.com/marahsang/tribute-page",
     livePreview: "https://marahsang.github.io/tribute-page/",
     },
+
     {
-      name: "Survey Form",
-      codeUrl: "https://github.com/marahsang/forms",
-      livePreview: "https://marahsang.github.io/forms/",
+      name: "Personal Portfolio Webpage",
+      codeUrl: "https://github.com/marahsang/personal-portfolio-webpage",
+      livePreview: "https://marahsang.github.io/personal-portfolio-webpage/",
     },
 
     {
@@ -70,11 +71,12 @@ const projects = [
       codeUrl: "https://github.com/marahsang/penguin",
       livePreview: "https://marahsang.github.io/penguin/",
     },
+    
     {
-      name: "Personal Portfolio Webpage",
-      codeUrl: "https://github.com/marahsang/personal-portfolio-webpage",
-      livePreview: "https://marahsang.github.io/personal-portfolio-webpage/",
-    }
+      name: "Survey Form",
+      codeUrl: "https://github.com/marahsang/forms",
+      livePreview: "https://marahsang.github.io/forms/",
+    },
 
   ];
   
