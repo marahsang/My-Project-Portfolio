@@ -1,6 +1,6 @@
 const projects = [
     {
-      name: "Abel Tracker",
+      name: "Leads Tracker",
       codeUrl: "https://github.com/marahsang/abel-tracker",
       livePreview: " https://marahsang.github.io/abel-tracker/",
     },
@@ -10,7 +10,7 @@ const projects = [
       livePreview: "https://marahsang.github.io/black-jack/",
     },
     {
-      name: "Odin Grid Project",
+      name: "Dashboard",
       codeUrl: "https://github.com/marahsang/Odin-Grid-Project",
       livePreview: "https://marahsang.github.io/Odin-Grid-Project/",
     },
@@ -45,12 +45,10 @@ const projects = [
     livePreview: "https://marahsang.github.io/tribute-page/",
     },
     {
-      name: "Survey form",
+      name: "Survey Form",
       codeUrl: "https://github.com/marahsang/forms",
       livePreview: "https://marahsang.github.io/forms/",
     },
-
-
 
     {
       name: "Technical Documentation",
@@ -73,17 +71,15 @@ const projects = [
       livePreview: "https://marahsang.github.io/penguin/",
     },
     {
-      name: "Survey form",
+      name: "Survey Form",
       codeUrl: "https://github.com/marahsang/forms",
       livePreview: "https://marahsang.github.io/forms/",
     }
 
   ];
   
-  // Get the project list container
-  const projectList = document.getElementById("projectList");
+    const projectList = document.getElementById("projectList");
   
-  // Populate projects dynamically
   projects.forEach((project) => {
     const projectItem = document.createElement("div");
     projectItem.classList.add("project-item");
