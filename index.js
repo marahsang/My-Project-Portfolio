@@ -79,8 +79,8 @@ const projects = [
     },
     {
       name: "Meme Generator",
-      codeUrl: "https://github.com/marahsang/meme-app",
-      livePreview: "https://marahsang.github.io/meme-app/",
+      codeUrl: "https://github.com/marahsang/meme-gene",
+      livePreview: " https://marahsang.github.io/meme-gene/",
     },
     {
       name: "Tenzies",
