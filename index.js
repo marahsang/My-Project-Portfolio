@@ -73,10 +73,26 @@ const projects = [
     },
     
     {
+      name: "Assembly Endgame",
+      codeUrl: "https://github.com/marahsang/assembly-endgame",
+      livePreview: "https://marahsang.github.io/assembly-endgame/",
+    },
+    {
+      name: "Meme Generator",
+      codeUrl: "https://github.com/marahsang/meme-app",
+      livePreview: "https://marahsang.github.io/meme-app/",
+    },
+    {
+      name: "Tenzies",
+      codeUrl: "https://github.com/marahsang/tenzies-app",
+      livePreview: "https://marahsang.github.io/tenzies-app/",
+    },
+    {
       name: "Survey Form",
       codeUrl: "https://github.com/marahsang/forms",
       livePreview: "https://marahsang.github.io/forms/",
     },
+
 
   ];
   
