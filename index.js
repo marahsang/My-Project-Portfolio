@@ -93,7 +93,7 @@ const projects = [
       livePreview: "https://marahsang.github.io/forms/",
     },
     {
-      name: "Abel Tracker Mobile App",
+      name: "Chrome Ext Mobile App",
       codeUrl: "https://github.com/marahsang/chrome-ext-mobile-app",
       livePreview: "https://app.netlify.com/sites/chrome-ext-mobile-app/deploys"
     }
