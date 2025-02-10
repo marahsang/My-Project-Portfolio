@@ -92,8 +92,11 @@ const projects = [
       codeUrl: "https://github.com/marahsang/forms",
       livePreview: "https://marahsang.github.io/forms/",
     },
-
-
+    {
+      name: "Abel Tracker Mobile App",
+      codeUrl: "https://github.com/marahsang/chrome-ext-mobile-app",
+      livePreview: "https://app.netlify.com/sites/chrome-ext-mobile-app/deploys"
+    }
   ];
   
     const projectList = document.getElementById("projectList");
