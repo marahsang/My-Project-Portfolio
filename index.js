@@ -95,7 +95,7 @@ const projects = [
     {
       name: "Chrome Ext Mobile App",
       codeUrl: "https://github.com/marahsang/chrome-ext-mobile-app",
-      livePreview: "https://app.netlify.com/sites/chrome-ext-mobile-app/deploys"
+      livePreview: "https://chrome-ext-mobile-app.netlify.app"
     }
   ];
   
