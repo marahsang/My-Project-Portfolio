@@ -99,7 +99,7 @@ const projects = [
     },
 
     {
-      name: "Fiverr Gigg",
+      name: "Fiverr Gig",
       livePreview: "https://www.fiverr.com/s/bdGeQwq",
     }
   ];
