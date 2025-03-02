@@ -95,7 +95,12 @@ const projects = [
     {
       name: "Chrome Ext Mobile App",
       codeUrl: "https://github.com/marahsang/chrome-ext-mobile-app",
-      livePreview: "https://chrome-ext-mobile-app.netlify.app"
+      livePreview: "https://chrome-ext-mobile-app.netlify.app",
+    },
+
+    {
+      name: "Fiverr Gigg",
+      livePreview: "https://www.fiverr.com/s/bdGeQwq",
     }
   ];
   
