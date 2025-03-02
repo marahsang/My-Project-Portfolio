@@ -39,26 +39,21 @@ const projects = [
     codeUrl: "https://github.com/marahsang/odin-recipes",
     livePreview: "https://marahsang.github.io/odin-recipes/",
     },
-    
     {
-      name: "Tribute Page",
+      name: "Passenger App",
       codeUrl: "https://github.com/marahsang/psngr_app",
       livePreview: "https://marahsang.github.io/psngr_app/",
-      },
-
-    
+    },
     {
     name: "Tribute Page",
     codeUrl: "https://github.com/marahsang/tribute-page",
     livePreview: "https://marahsang.github.io/tribute-page/",
     },
-
     {
       name: "Personal Portfolio Webpage",
       codeUrl: "https://github.com/marahsang/personal-portfolio-webpage",
       livePreview: "https://marahsang.github.io/personal-portfolio-webpage/",
     },
-
     {
       name: "Technical Documentation",
       codeUrl: "https://github.com/marahsang/tech-doc",
